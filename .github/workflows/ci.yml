@@ -10,5 +10,3 @@ jobs:
         uses: actions/checkout@v4
       - name: Build with Make
         run: make
-      - name: Run the program (optional)
-        run: make run
