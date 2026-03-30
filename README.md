@@ -1,11 +1,11 @@
-##Overview
+## Overview
 Программа на С с использованием структур.
 
-##Author
+## Author
 Алексахина Вероника, группа 12
 
-##Usage
+## Usage
 make, make run, make clean
 
-##Addition Notes
+## Addition Notes
 
